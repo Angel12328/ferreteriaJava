@@ -1,0 +1,50 @@
+---------- EMPLEADO ----------
+Código: 1
+Nombre: Luis
+Apellido: Ramirez
+Teléfono: 555-345-6789
+Dirección: Av. Evergreen 123
+Correo: luis.ramirez@email.com
+Cargo: Taquillero
+Salario: 9920.0
+------------------------------
+---------- EMPLEADO ----------
+Código: 2
+Nombre: Andrea
+Apellido: Torres
+Teléfono: 555-987-1244
+Dirección: Av. Central 345
+Correo: andrea.torres@email.com
+Cargo: Encargada de Dulceria
+Salario: 11780.0
+------------------------------
+---------- EMPLEADO ----------
+Código: 3
+Nombre: Carlos
+Apellido: Gomez
+Teléfono: 555-901-2345
+Dirección: Calle Independencia 456
+Correo: carlos.gomez@email.com
+Cargo: Supervisor de Salas
+Salario: 16200.0
+------------------------------
+---------- EMPLEADO ----------
+Código: 4
+Nombre: Michael
+Apellido: De Santa
+Teléfono: 555-1231-1232
+Dirección: Col. Los Santos
+Correo: MichaelSant@lifeinvader.com
+Cargo: Recepcionista
+Salario: 15000.0
+------------------------------
+---------- EMPLEADO ----------
+Código: 5
+Nombre: Hideo
+Apellido: Kojima
+Teléfono: 555-1232-2321
+Dirección: Col. Ger Solf
+Correo: KojimaLor@email.com
+Cargo: Cajero
+Salario: 12000.0
+------------------------------

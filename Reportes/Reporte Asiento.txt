@@ -1,0 +1,36 @@
+---------- ASIENTO ----------
+Código: 1
+Número: 11
+Estado: Libre
+Sala: Sala 1
+----------------------------
+---------- ASIENTO ----------
+Código: 2
+Número: 12
+Estado: Libre
+Sala: Sala 1
+----------------------------
+---------- ASIENTO ----------
+Código: 3
+Número: 13
+Estado: Libre
+Sala: Sala 1
+----------------------------
+---------- ASIENTO ----------
+Código: 4
+Número: 14
+Estado: Libre
+Sala: Sala 1
+----------------------------
+---------- ASIENTO ----------
+Código: 5
+Número: 15
+Estado: Libre
+Sala: Sala 1
+----------------------------
+---------- ASIENTO ----------
+Código: 6
+Número: 16
+Estado: Libre
+Sala: Sala 1
+----------------------------

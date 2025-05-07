@@ -1,0 +1,36 @@
+---------- SALA ----------
+Código: 1
+Nombre: Sala 1
+Capacidad: 20 asientos
+Ubicación: Planta Baja
+--------------------------
+---------- SALA ----------
+Código: 2
+Nombre: Sala 2
+Capacidad: 20 asientos
+Ubicación: Segundo Piso
+--------------------------
+---------- SALA ----------
+Código: 3
+Nombre: Sala 3
+Capacidad: 20 asientos
+Ubicación: Primer Piso
+--------------------------
+---------- SALA ----------
+Código: 4
+Nombre: Sala 4
+Capacidad: 20 asientos
+Ubicación: Segundo Piso
+--------------------------
+---------- SALA ----------
+Código: 5
+Nombre: Sala 5
+Capacidad: 20 asientos
+Ubicación: Planta Baja
+--------------------------
+---------- SALA ----------
+Código: 6
+Nombre: Sala 6
+Capacidad: 20 asientos
+Ubicación: Segundo Piso
+--------------------------

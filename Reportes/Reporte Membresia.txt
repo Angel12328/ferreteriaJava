@@ -1,0 +1,25 @@
+---------- TARJETA MEMBRESÍA ----------
+Código: 1
+Cliente: Sofia
+Puntos: 100
+---------------------------------------
+---------- TARJETA MEMBRESÍA ----------
+Código: 2
+Cliente: Martin
+Puntos: 100
+---------------------------------------
+---------- TARJETA MEMBRESÍA ----------
+Código: 3
+Cliente: Camila
+Puntos: 100
+---------------------------------------
+---------- TARJETA MEMBRESÍA ----------
+Código: 4
+Cliente: Juan
+Puntos: 100
+---------------------------------------
+---------- TARJETA MEMBRESÍA ----------
+Código: 5
+Cliente: Angel
+Puntos: 100
+---------------------------------------

@@ -1,0 +1,30 @@
+---------- RESERVA ----------
+Código: 1
+Cliente: Valeria
+Función: Avengers: Endgame
+Asiento: 13
+----------------------------
+---------- RESERVA ----------
+Código: 2
+Cliente: Juan
+Función: Avengers: Endgame
+Asiento: 12
+----------------------------
+---------- RESERVA ----------
+Código: 3
+Cliente: Martin
+Función: Avengers: Endgame
+Asiento: 11
+----------------------------
+---------- RESERVA ----------
+Código: 4
+Cliente: Camila
+Función: Watchmen
+Asiento: 16
+----------------------------
+---------- RESERVA ----------
+Código: 5
+Cliente: Juan
+Función: Watchmen
+Asiento: 16
+----------------------------

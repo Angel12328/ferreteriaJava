@@ -1,0 +1,36 @@
+---------- FUNCIÓN ----------
+Código: 1
+Hora: 17:30
+Sala: Sala 1
+Película: Avengers: Endgame
+----------------------------
+---------- FUNCIÓN ----------
+Código: 2
+Hora: 19:45
+Sala: Sala 2
+Película: The Lion King
+----------------------------
+---------- FUNCIÓN ----------
+Código: 3
+Hora: 21:00
+Sala: Sala 3
+Película: Frozen II
+----------------------------
+---------- FUNCIÓN ----------
+Código: 4
+Hora: 22:00
+Sala: Sala 4
+Película: Watchmen
+----------------------------
+---------- FUNCIÓN ----------
+Código: 5
+Hora: 23:00
+Sala: Sala 5
+Película: Morazan
+----------------------------
+---------- FUNCIÓN ----------
+Código: 6
+Hora: 12:00
+Sala: Sala 4
+Película: Morazan
+----------------------------

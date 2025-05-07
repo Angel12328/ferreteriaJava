@@ -1,0 +1,49 @@
+---------- PELÍCULA ----------
+Código: 1
+Nombre: Avengers: Endgame
+Duración: 03:01
+Género: Accion, Aventura, Ciencia Ficcion
+Categoría: PG-13
+------------------------------
+---------- PELÍCULA ----------
+Código: 2
+Nombre: The Lion King
+Duración: 01:58
+Género: Animacion, Aventura, Familiar
+Categoría: G
+------------------------------
+---------- PELÍCULA ----------
+Código: 3
+Nombre: Frozen II
+Duración: 01:43
+Género: Animacion, Fantasia
+Categoría: G
+------------------------------
+---------- PELÍCULA ----------
+Código: 4
+Nombre: The Godfather
+Duración: 02:55
+Género: Crimen, Drama
+Categoría: R
+------------------------------
+---------- PELÍCULA ----------
+Código: 5
+Nombre: Watchmen
+Duración: 02:43
+Género: Accion, Crimen, Drama
+Categoría: R
+------------------------------
+---------- PELÍCULA ----------
+Código: 6
+Nombre: Morazan
+Duración: 02:15
+Género: Accion, Historica, Independiente
+Categoría: PG-13
+------------------------------
+---------- PELÍCULA ----------
+Código: 7
+Nombre: Avengers 9
+Duración: 04:59
+Género: Accion, Aventura
+Categoría: PG-13
+------------------------------

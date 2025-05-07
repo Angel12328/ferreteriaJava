@@ -1,0 +1,7 @@
+---------- INVENTARIO ----------
+Código: 1
+Producto: Martillo
+Precio: 200.0
+Stock: 70000
+Proveedor: a
+--------------------------------

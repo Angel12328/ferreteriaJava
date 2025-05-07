@@ -1,0 +1,15 @@
+---------- PROVEEDOR ----------
+Código: 1
+Nombre: a
+Teléfono: a
+--------------------------------
+---------- PROVEEDOR ----------
+Código: 2
+Nombre: bb
+Teléfono: b
+--------------------------------
+---------- PROVEEDOR ----------
+Código: 3
+Nombre: c
+Teléfono: c
+--------------------------------

@@ -1,0 +1,45 @@
+---------- PRODUCTO ----------
+Código: 1
+Nombre: Palomitas (Mediano)
+Precio: L200.0
+------------------------------
+---------- PRODUCTO ----------
+Código: 2
+Nombre: Refresco (500 ml)
+Precio: L150.0
+------------------------------
+---------- PRODUCTO ----------
+Código: 3
+Nombre: Combo (Palomitas medianas + refresco pequeño)
+Precio: L250.0
+------------------------------
+---------- PRODUCTO ----------
+Código: 4
+Nombre: Nachos con queso
+Precio: L200.0
+------------------------------
+---------- PRODUCTO ----------
+Código: 5
+Nombre: Galletas o dulces (tamaño pequeño)
+Precio: L100.0
+------------------------------
+---------- PRODUCTO ----------
+Código: 6
+Nombre: Agua embotellada (500 ml)
+Precio: L120.0
+------------------------------
+---------- PRODUCTO ----------
+Código: 7
+Nombre: Hot dog
+Precio: L250.0
+------------------------------
+---------- PRODUCTO ----------
+Código: 8
+Nombre: Refresco (1 litro)
+Precio: L200.0
+------------------------------
+---------- PRODUCTO ----------
+Código: 9
+Nombre: Palomitas (pequeñas)
+Precio: L100.0
+------------------------------

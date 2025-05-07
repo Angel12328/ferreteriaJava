@@ -1,0 +1,24 @@
+---------- BOLETO ----------
+Código: 1
+Precio: 100.0
+Función: Avengers: Endgame
+Asiento: 11
+----------------------------
+---------- BOLETO ----------
+Código: 2
+Precio: 100.0
+Función: Avengers: Endgame
+Asiento: 12
+----------------------------
+---------- BOLETO ----------
+Código: 3
+Precio: 100.0
+Función: Avengers: Endgame
+Asiento: 13
+----------------------------
+---------- BOLETO ----------
+Código: 4
+Precio: 100.0
+Función: Watchmen
+Asiento: 16
+----------------------------

@@ -1,0 +1,5 @@
+---------- VENTA ----------
+Código: 1
+Cliente: a
+Producto: Martillo
+----------------------------

@@ -1,0 +1,284 @@
+---------- FACTURA ----------
+Código: 1
+Fecha: Wed Apr 16 13:47:35 CST 2025
+Cliente: 123
+Empleado: PEDRO
+Producto: CLAVO-2PULG-LB
+Precio: 10.0
+Cantidad: 1
+Impuesto S/V: 1.2
+Monto Total: L11.2
+----------------------------
+---------- FACTURA ----------
+Código: 2
+Fecha: Wed Apr 16 13:48:42 CST 2025
+Cliente: 1234
+Empleado: PEDRO
+Producto: CLAVO-1PULG-LB
+Precio: 15.0
+Cantidad: 1
+Impuesto S/V: 1.7999999999999998
+Monto Total: L16.8
+----------------------------
+---------- FACTURA ----------
+Código: 3
+Fecha: Wed Apr 16 13:53:08 CST 2025
+Cliente: asdf
+Empleado: N/D
+Producto: ALAMBRE-10MTS
+Precio: 100.0
+Cantidad: 1
+Impuesto S/V: 18.0
+Monto Total: L168.0
+----------------------------
+---------- FACTURA ----------
+Código: 4
+Fecha: Wed Apr 16 13:54:55 CST 2025
+Cliente: QWEE
+Empleado: PEDRO
+Producto: ALAMBRE-10MTS
+Precio: 100.0
+Cantidad: 1
+Impuesto S/V: 12.0
+Monto Total: L112.0
+----------------------------
+---------- FACTURA ----------
+Código: 5
+Fecha: Wed Apr 16 14:00:47 CST 2025
+Cliente: 12345
+Empleado: PEDRO
+Producto: ALAMBRE-20MTS
+Precio: 150.0
+Cantidad: 1
+Impuesto S/V: 18.0
+Monto Total: L168.0
+----------------------------
+---------- FACTURA ----------
+Código: 6
+Fecha: Wed Apr 16 21:30:36 CST 2025
+Cliente: Ashbula Hadid
+Empleado: PEDRO
+Producto: ALAMBRE-20MTS
+Precio: 150.0
+Cantidad: 12
+Producto: CLAVO-2PULG-LB
+Precio: 10.0
+Cantidad: 11
+Impuesto S/V: 229.2
+Monto Total: L2043.7
+----------------------------
+---------- FACTURA ----------
+Código: 7
+Fecha: Wed Apr 16 21:50:51 CST 2025
+Cliente: KJHGFDS
+Empleado: PEDRO
+Producto: CLAVO-1PULG-LB
+Precio: 15.0
+Cantidad: 1
+Impuesto S/V: 1.7999999999999998
+Monto Total: L16.8
+----------------------------
+---------- FACTURA ----------
+Código: 8
+Fecha: Thu Apr 17 21:36:22 CST 2025
+Cliente: JUAN
+Empleado: PEDRO
+Producto: CLAVO-2PULG-LB
+Precio: 10.0
+Cantidad: 10
+Producto: CLAVO-1PULG-LB
+Precio: 15.0
+Cantidad: 3
+Impuesto S/V: 17.4
+Monto Total: L155.15
+----------------------------
+---------- FACTURA ----------
+Código: 9
+Fecha: Thu Apr 17 21:56:40 CST 2025
+Cliente: JJJJ
+Empleado: PEDRO
+Producto: CLAVO-2PULG-LB
+Precio: 10.0
+Cantidad: 10
+Impuesto S/V: 12.0
+Monto Total: L107.0
+----------------------------
+---------- FACTURA ----------
+Código: 10
+Fecha: Thu Apr 17 22:02:33 CST 2025
+Cliente: JAUN
+Empleado: PEDRO
+Producto: CLAVO-2PULG-LB
+Precio: 10.0
+Cantidad: 10
+Impuesto S/V: 12.0
+Monto Total: L107.0
+----------------------------
+---------- FACTURA ----------
+Código: 11
+Fecha: Thu Apr 17 22:12:14 CST 2025
+Cliente: LEO MESSI
+Empleado: N/D
+Producto: CLAVO-2PULG-LB
+Precio: 10.0
+Cantidad: 5
+Impuesto S/V: 6.0
+Monto Total: L56.0
+----------------------------
+---------- FACTURA ----------
+Código: 12
+Fecha: Thu Apr 17 22:14:25 CST 2025
+Cliente: Goku
+Empleado: N/D
+Producto: CLAVO-2PULG-LB
+Precio: 10.0
+Cantidad: 10
+Impuesto S/V: 12.0
+Monto Total: L107.0
+----------------------------
+---------- FACTURA ----------
+Código: 13
+Fecha: Thu Apr 17 22:20:16 CST 2025
+Cliente: ALLAN
+Empleado: PEDRO
+Producto: ALAMBRE-20MTS
+Precio: 150.0
+Cantidad: 7
+Impuesto S/V: 126.0
+Monto Total: L1123.5
+----------------------------
+---------- FACTURA ----------
+Código: 14
+Fecha: Thu Apr 17 22:27:55 CST 2025
+Cliente: ALLAN 
+Empleado: PEDRO
+Producto: CLAVO-1PULG-LB
+Precio: 15.0
+Cantidad: 10
+Impuesto S/V: 18.0
+Monto Total: L160.5
+----------------------------
+---------- FACTURA ----------
+Código: 15
+Fecha: Sat Apr 19 17:28:46 CST 2025
+Cliente: JUAN
+Empleado: PEDRO
+Producto: CLAVO-2PULG-LB
+Precio: 10.0
+Cantidad: 10
+Impuesto S/V: 12.0
+Monto Total: L107.0
+----------------------------
+---------- FACTURA ----------
+Código: 16
+Fecha: Sat Apr 19 17:44:09 CST 2025
+Cliente: JUAN
+Empleado: PEDRO
+Producto: ALAMBRE-20MTS
+Precio: 150.0
+Cantidad: 10
+Impuesto S/V: 180.0
+Monto Total: L1605.0
+----------------------------
+---------- FACTURA ----------
+Código: 17
+Fecha: Sat Apr 19 17:54:31 CST 2025
+Cliente: AAA
+Empleado: PEDRO
+Producto: ALAMBRE-20MTS
+Precio: 150.0
+Cantidad: 5
+Impuesto S/V: 90.0
+Monto Total: L840.0
+----------------------------
+---------- FACTURA ----------
+Código: 18
+Fecha: Sat Apr 19 18:31:31 CST 2025
+Cliente: FFFF
+Empleado: PEDRO
+Producto: ALAMBRE-10MTS
+Precio: 100.0
+Cantidad: 2
+Producto: ALAMBRE-10MTS
+Precio: 100.0
+Cantidad: 3
+Impuesto S/V: 60.0
+Monto Total: L560.0
+----------------------------
+---------- FACTURA ----------
+Código: 19
+Fecha: Sun Apr 20 20:14:26 CST 2025
+Cliente: ANGEL
+Empleado: PEDRO
+Producto: CLAVO-2PULG-LB
+Precio: 10.0
+Cantidad: 4
+Impuesto S/V: 4.8
+Monto Total: L44.8
+----------------------------
+---------- FACTURA ----------
+Código: 20
+Fecha: Tue Apr 22 19:58:48 CST 2025
+Cliente: ANGEL
+Empleado: PEDRO
+Producto: CLAVO-1PULG-LB
+Precio: 15.0
+Cantidad: 5
+Impuesto S/V: 9.0
+Monto Total: L84.0
+----------------------------
+---------- FACTURA ----------
+Código: 21
+Fecha: Tue Apr 22 20:04:19 CST 2025
+Cliente: A
+Empleado: N/D
+Producto: CLAVO-2PULG-LB
+Precio: 10.0
+Cantidad: 1
+Impuesto S/V: 1.2
+Monto Total: L11.2
+----------------------------
+---------- FACTURA ----------
+Código: 22
+Fecha: Tue Apr 22 20:06:39 CST 2025
+Cliente: A
+Empleado: N/D
+Producto: CLAVO-1PULG-LB
+Precio: 15.0
+Cantidad: 1
+Impuesto S/V: 1.2
+Monto Total: L11.2
+----------------------------
+---------- FACTURA ----------
+Código: 23
+Fecha: Tue Apr 22 20:07:43 CST 2025
+Cliente: SA
+Empleado: N/D
+Producto: CLAVO-1PULG-LB
+Precio: 15.0
+Cantidad: 1
+Impuesto S/V: 1.7999999999999998
+Monto Total: L16.8
+----------------------------
+---------- FACTURA ----------
+Código: 24
+Fecha: Tue Apr 22 20:23:42 CST 2025
+Cliente: ANGEL
+Empleado: N/D
+Producto: CLAVO-2PULG-LB
+Precio: 10.0
+Cantidad: 5
+Impuesto S/V: 1.7999999999999998
+Monto Total: L16.8
+----------------------------
+---------- FACTURA ----------
+Código: 25
+Fecha: Tue Apr 22 20:27:35 CST 2025
+Cliente: ANGEL
+Empleado: N/D
+Producto: CLAVO-2PULG-LB
+Precio: 10.0
+Cantidad: 5
+Impuesto S/V: 6.0
+Monto Total: L56.0
+----------------------------
