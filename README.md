@@ -2,7 +2,8 @@ Sistema de escritorio para la gestión de un punto de venta en una ferretería, 
 
 > Gestión de proveedores
 > Gestión de inventario
-> Gestión de ventas
+# Gestión de ventas
+![Logo de la app]()
 > Gestión de pagos
 > Gestión de facturas
 > Generación de reportes
