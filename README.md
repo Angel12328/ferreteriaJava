@@ -29,7 +29,14 @@ Desarrollé la sección de gestión de ventas y parte de la sección de generaci
 - **Java 21 en adelante**
 - **JDK 21 minimo**
 
+# Clona este repositorio
+https://github.com/Angel12328/ferreteriaJava.git
+
+***
+
 # Colaboradores
 Proyecto realizado por: Angel Zavala, Byron Torres, Jeimy Palma y Allan Orellana.
+
+
 
 
